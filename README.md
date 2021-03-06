@@ -1,2 +1,2 @@
 # Dandanie
-Back-end for the website: https://www.dandanie.co
+Back-end for the website: https://www.dandanie.com
